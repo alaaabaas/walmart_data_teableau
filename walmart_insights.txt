@@ -1,0 +1,7 @@
+link:
+https://public.tableau.com/app/profile/alaa.m.abaas/viz/walmart_porducts/Dashboard1?publish=yes
+insight 1:
+most drivers gets late we have only four drivers who delivered the products on time three times there are other four drivers delivered on time two times 
+
+insight 2:
+walmart products are not distributed equally among the warehouses each product is distributed among from five to six warehouses others less than that and others more 
